@@ -1,1 +1,1 @@
-worker: python3 погодный.py
+worker: python3 ssratov.py
